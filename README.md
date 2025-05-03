@@ -15,7 +15,7 @@
 ## 📢 Publications & Posters
 - * Detection of geothermal anomalies using Landsat 8 TIRS  
   (https://www.sciencedirect.com/science/article/abs/pii/S0303243418306032)
-- * Sinkhole Detection usning SAR AND lIDAR data
+- * Sinkhole Detection usning SAR and liDAR data
   (https://www.sciencedirect.com/science/article/pii/S0048969724072188)
   
 ## 📫 Contact
