@@ -13,8 +13,11 @@
 - PostgreSQL | PostGIS | Git | GitHub
  
 ## 📢 Publications & Posters
-- * Detection of geothermal anomalies using Landsat 8 TIRS*  
+- * Detection of geothermal anomalies using Landsat 8 TIRS  
   (https://www.sciencedirect.com/science/article/abs/pii/S0303243418306032)
 - * Sinkhole Detection usning SAR AND lIDAR data
   (https://www.sciencedirect.com/science/article/pii/S0048969724072188)
   
+## 📫 Contact
+- 📧 dargeyosef@gmail.com 
+- 🌐 [GitHub](https://github.com/dargeyosef)
